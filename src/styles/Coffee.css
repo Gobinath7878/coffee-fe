@@ -1,0 +1,15 @@
+.coffee-card img{
+width: 300px !important;
+}
+.description{
+    font-size: 12px;
+    padding: 5px;
+    text-align:justify;
+}
+button:hover{
+    background-color: rgb(107, 205, 50) !important;
+}
+.payment{
+    text-decoration:none !important;
+    color: white !important;
+}
